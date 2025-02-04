@@ -6,6 +6,7 @@ public class Hello { // define a name called `Hello`
         System.out.println("Howdy y'all");
         System.out.print("Adios, "); // do not start a new line
         System.out.println("Cruel World.");
+        System.out.println(System.out);
     } // end main function definition
 
 } // end class definition
