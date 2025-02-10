@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // Import statements can’t be inside a class deﬁnition.
 
 public class Ecco {
 
