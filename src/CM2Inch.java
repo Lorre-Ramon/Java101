@@ -15,6 +15,7 @@ public class CM2Inch {
         inch = (int) (cm / CM_PER_INCH);
         feet = inch / IN_PER_FOOT;
         remainder = inch % IN_PER_FOOT;
+        // System.out.printf("%.3f cm is %d ft, %d in\n", cm, feet, remainder);
         System.out.printf("%.3f cm is %d ft, %d in\n", cm, feet, remainder);
 
     }
